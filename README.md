@@ -1,3 +1,7 @@
+# Description About the Project
+
+This project is made using reactJs for the frontend and currently I'm working on the backend of the project to integrate it with a database. This project is useful in many manners it helps you estimate your monthly expenses and keep a track of your financies so that you don't overspend. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
